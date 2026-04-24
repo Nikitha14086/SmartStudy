@@ -1,4 +1,4 @@
-📚 AI-Powered Academic Scheduler
+📚 SmartStudy-AI-Powered Academic Scheduler
 
 Time management is one of the biggest challenges students face in academic environments. Balancing assignments, exams, projects, and personal commitments often becomes overwhelming, leading to missed deadlines and increased stress.
 
